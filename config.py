@@ -1,0 +1,1 @@
+mykey="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"
